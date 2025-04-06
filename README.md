@@ -1,7 +1,10 @@
 # Архитектуры ЭВМ
 ```
-  bmstu Computer Аrchitecture (4 семестр - 2022 год)
+  BMSTU IU7 Архитектура ЭВМ - 4 семестр 2022 год
 ```
+
+> Преподаватель: Попов А.Ю.
+
 | Lab № | Название | Status |
 |:------:|:-----|:-----:|
 | 1 | [Синхронные одноступенчатые триггеры.](https://github.com/Mansurow/bmstu_AECM/tree/master/lab_01) |:white_check_mark: |
